@@ -1,9 +1,9 @@
 # D7041E Mini Project Report
 
 ## Group Members
-- **Cai Hongqi** ([honcai-4@student.ltu.se](mailto:honcai-4@student.ltu.se))  
-- **Nityasundar Rajakumar** ([nitraj-4@student.ltu.se](mailto:nitraj-4@student.ltu.se))  
-- **Poh Qi Bin** ([qibpoh-4@student.ltu.se](mailto:qibpoh-4@student.ltu.se))  
+- **Cai Hongqi** ([honcai-4@student.ltu.se](mailto:honcai-4@student.ltu.se))  ID: 010924-T398
+- **Nityasundar Rajakumar** ([nitraj-4@student.ltu.se](mailto:nitraj-4@student.ltu.se))  ID: 010314-T453
+- **Poh Qi Bin** ([qibpoh-4@student.ltu.se](mailto:qibpoh-4@student.ltu.se))  ID: 011013-T455
 
 GitHub Repository: [Learning Models for UCI Datasets](https://github.com/SharpWoofer/Learning-Models-for-UCI-Datasets)
 
