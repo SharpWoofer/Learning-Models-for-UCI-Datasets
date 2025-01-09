@@ -18,28 +18,18 @@ GitHub Repository: [Learning Models for UCI Datasets](https://github.com/SharpWo
 
 ## Datasets
 ### 1. Dermatology  
-- **Size:**  
-- **Columns:** 34  
 - **Description:** Clinical and histopathological features for diagnosing skin diseases, including family history and age. Features are measured on a scale of 0-3.
 
-### 2. Flags  
-- **Size:** 194 rows  
-- **Columns:** 29  
+### 2. Flags   
 - **Description:** Features of national flags, including numeric, Boolean, and nominal values. Target variable represents the flag's class.
 
-### 3. Steel Plates Faults  
-- **Size:**  
-- **Columns:**  
+### 3. Steel Plates Faults   
 - **Description:** Steel plate fault classification into 7 types (e.g., Pastry, Z_Scratch, Dirtiness). Used for automatic pattern recognition.
 
-### 4. Wine  
-- **Size:**  
-- **Columns:** 13  
+### 4. Wine   
 - **Description:** Chemical analysis of wines from 3 cultivars. Features include alcohol content, acidity, and other chemical properties.
 
-### 5. Zoo  
-- **Size:**  
-- **Columns:** 17  
+### 5. Zoo   
 - **Description:** Simple dataset with Boolean-valued attributes. Classes represent different types of animals.
 
 ---
